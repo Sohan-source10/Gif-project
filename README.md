@@ -20,18 +20,19 @@ The program reads image files from a folder and merges them into a looping GIF a
 
 ## 📂 Project Structure
 
-Gif_project
+```
+gif-project/
 │
-├── Frames
+├── Frames/
 │   ├── dino1.png
 │   ├── dino2.png
 │   ├── dino3.png
-│   ├── dino4.png
+│   └── dino4.png
 │
 ├── Create_gif.py
-└── din.gif
-
----
+├── din.gif
+└── README.md
+```
 
 ## ▶️ How to Run the Project
 
