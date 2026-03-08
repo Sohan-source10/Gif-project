@@ -30,8 +30,7 @@ gif-project/
 │   └── dino4.png
 │
 ├── Create_gif.py
-├── din.gif
-└── README.md
+└── dino.gif
 ```
 
 ## ▶️ How to Run the Project
