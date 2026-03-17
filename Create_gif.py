@@ -1,6 +1,6 @@
 import imageio.v3 as iio
 
-frames = ['Frames/Pixel art hero 1.png', 'Frames/Pixel art hero 2.png']
+frames = ['Frames/Pixel art hero 01.png', 'Frames/Pixel art hero 02.png']
 images = []
 
 for frame in frames:

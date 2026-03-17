@@ -24,8 +24,8 @@ The program reads image files from a folder and merges them into a looping GIF a
 gif-project/
 │
 ├── Frames/
-│ ├── Pixel art hero 1.png
-│ └── Pixel art hero 2.png
+│ ├── Pixel art hero 01.png
+│ └── Pixel art hero 02.png
 │
 ├── Create_gif.py
 └── Pixel_Hero.gif
