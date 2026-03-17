@@ -1,9 +1,9 @@
 import imageio.v3 as iio
 
-frames = ['Frames/dino1.png', 'Frames/dino2.png', 'Frames/dino3.png', 'Frames/dino4.png']
+frames = ['Frames/Pixel art hero 1.png', 'Frames/Pixel art hero 2.png']
 images = []
 
 for frame in frames:
     images.append(iio.imread(frame))
 
-iio.imwrite("dino.gif", images, duration=2.0, loop=0)
+iio.imwrite("Pixel_Hero.gif", images, duration=500, loop=0)

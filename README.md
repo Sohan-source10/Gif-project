@@ -24,13 +24,11 @@ The program reads image files from a folder and merges them into a looping GIF a
 gif-project/
 │
 ├── Frames/
-│   ├── dino1.png
-│   ├── dino2.png
-│   ├── dino3.png
-│   └── dino4.png
+│ ├── Pixel art hero 1.png
+│ └── Pixel art hero 2.png
 │
 ├── Create_gif.py
-└── dino.gif
+└── Pixel_Hero.gif
 ```
 
 ## ▶️ How to Run the Project
@@ -49,7 +47,7 @@ python Create_gif.py
 
 The script generates an animated GIF from the image frames.
 
-![Dino Animation](dino.gif)
+![Pixel Hero Animation](Pixel_Hero.gif)
 
 ---
 
