@@ -28,7 +28,7 @@ gif-project/
 │ └── Pixel art hero 02.png
 │
 ├── Create_gif.py
-└── Pixel_Hero.gif
+└── Hero.gif
 ```
 
 ## ▶️ How to Run the Project
