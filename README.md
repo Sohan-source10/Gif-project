@@ -47,7 +47,7 @@ gif-project/
 
 The script generates an animated GIF from the image frames.
 
-![Pixel Hero Animation](Pixel_Hero.gif)
+![Pixel Hero Animation](Hero.gif)
 
 ---
 
