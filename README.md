@@ -1,6 +1,6 @@
 # GIF Generator (Python)
 
-A simple Python project that generates an animated GIF from multiple image frames using the ImageIO library.
+A simple Python project that generates an animated GIF from multiple images using the ImageIO library.
 
 ---
 
@@ -33,13 +33,13 @@ gif-project/
 
 ## ▶️ How to Run the Project
 
-1. Install the required library:
+1.  Install the required library:
 
-pip install imageio
+ pip install imageio
 
-2. Run the Python script:
+2.  Run the Python script:
 
-python Create_gif.py
+ python Create_gif.py
 
 ---
 
